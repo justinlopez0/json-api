@@ -1,4 +1,17 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "title": "justin"
+    },
+    {
+      "id": 1,
+      "title": "jesus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
   "products": [
     {
       "id": 1,
